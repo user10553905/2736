@@ -1,0 +1,6 @@
+Nacos:
+  DataId: "like-shop"
+  Group: "like-shop-three"
+  Host: "14.103.243.154"
+  Port: 8848
+  NamespaceId: "872a5932-9730-4bc5-9f8d-f5563c16d5e6"
